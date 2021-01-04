@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/practice-react1-monsters/static/css/main.15af373f.chunk.css",
+    "main.js": "/practice-react1-monsters/static/js/main.4e903861.chunk.js",
+    "main.js.map": "/practice-react1-monsters/static/js/main.4e903861.chunk.js.map",
+    "runtime-main.js": "/practice-react1-monsters/static/js/runtime-main.61036b4a.js",
+    "runtime-main.js.map": "/practice-react1-monsters/static/js/runtime-main.61036b4a.js.map",
+    "static/js/2.c1e0678e.chunk.js": "/practice-react1-monsters/static/js/2.c1e0678e.chunk.js",
+    "static/js/2.c1e0678e.chunk.js.map": "/practice-react1-monsters/static/js/2.c1e0678e.chunk.js.map",
+    "static/js/3.26c9c44d.chunk.js": "/practice-react1-monsters/static/js/3.26c9c44d.chunk.js",
+    "static/js/3.26c9c44d.chunk.js.map": "/practice-react1-monsters/static/js/3.26c9c44d.chunk.js.map",
+    "index.html": "/practice-react1-monsters/index.html",
+    "static/css/main.15af373f.chunk.css.map": "/practice-react1-monsters/static/css/main.15af373f.chunk.css.map",
+    "static/js/2.c1e0678e.chunk.js.LICENSE.txt": "/practice-react1-monsters/static/js/2.c1e0678e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61036b4a.js",
+    "static/js/2.c1e0678e.chunk.js",
+    "static/css/main.15af373f.chunk.css",
+    "static/js/main.4e903861.chunk.js"
+  ]
+}
